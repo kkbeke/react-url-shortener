@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&family=Reem+Kufi:wght@400;500;600;700&display=swap');
+
+
+:root {
+    --primary-color: #f99f38;
+}
+
+body{
+    margin: 0;
+}
